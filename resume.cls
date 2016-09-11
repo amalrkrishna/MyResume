@@ -4,9 +4,9 @@
 \NeedsTeXFormat{LaTeX2e}[2016/02/07]
 \ProvidesClass{resume}
 
-\LoadClass[letterpaper, oneside, final, 8pt]{scrartcl}
+\LoadClass[a4paper, oneside, final, 8pt]{scrartcl}
 
-\usepackage[letterpaper,left=0.7in,top=0.90in,right=0.7in,bottom=0.90in]{geometry}
+\usepackage[a4paper,left=0.7in,top=0.90in,right=0.7in,bottom=0.90in]{geometry}
 \usepackage{setspace}
 
 \RequirePackage{hyperref,scrpage2,titlesec,marvosym,soul,tabularx}
